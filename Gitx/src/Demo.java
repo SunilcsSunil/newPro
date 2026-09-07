@@ -5,6 +5,7 @@ public class Demo {
 		
 		System.out.println("GitX");
 		System.out.println("Code change from downloaded file");
+		System.out.println("now the change is from master file");
 		
 	}
 }
