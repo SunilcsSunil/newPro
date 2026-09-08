@@ -8,6 +8,7 @@ public class Demo {
 		System.out.println("now the change is from master file");
 		System.out.println("brachin from downloaded file");
 		System.out.println("Changes made in branches");
+		System.out.println("final commit");
 	
 	}
 }
